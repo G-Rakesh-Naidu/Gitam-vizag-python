@@ -1,1 +1,1 @@
-# Gitam-vizag-python
+# Problem-Solving-With-Python-Workshop
